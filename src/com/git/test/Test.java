@@ -11,6 +11,10 @@ public class Test {
 		System.out.println(d);
 	}
 	
+	public void run(){
+		System.out.println("aaaaaaaaa");
+	}
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		List list = new ArrayList();
