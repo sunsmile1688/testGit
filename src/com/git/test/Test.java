@@ -12,8 +12,7 @@ public class Test {
 	}
 	
 	public void run(){
-		System.out.println("master分支");
-		System.out.println("测试merge分支dev");
+		System.out.println("测试merge分支test");
 		System.out.println("aaaaaaaaa");
 	}
 	
