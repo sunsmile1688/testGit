@@ -12,6 +12,7 @@ public class Test {
 	}
 	
 	public void run(){
+		System.out.println("master∑÷÷ß");
 		System.out.println("aaaaaaaaa");
 	}
 	
